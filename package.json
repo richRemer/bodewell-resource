@@ -1,0 +1,19 @@
+{
+  "name": "bodewell-resource",
+  "version": "0.0.1",
+  "description": "Bodewell system monitor resource",
+  "main": "resource.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richRemer/bodewell-resource.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/bodewell-resource/issues"
+  },
+  "homepage": "https://github.com/richRemer/bodewell-resource#readme"
+}
